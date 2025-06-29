@@ -56,7 +56,7 @@ python manage.py runserver
 7.Start Celery worker
 celery -A backend_project worker --loglevel=info --pool=solo
 
-🤖 Telegram Bot
+🤖 Telegram Bot- My bot name is SmrutiBot
 Interacts via /start command
 
 Collects user info: username, email, password
